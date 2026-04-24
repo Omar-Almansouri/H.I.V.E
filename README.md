@@ -38,22 +38,22 @@ H.I.V.E is a three-layer autonomous monitoring ecosystem that shifts industrial 
                ▼
 ┌─────────────────────────────────────────┐
 │             QUEEN BEE                   │
-│   (Edge AI Processing Hub)             │
-│   • Jetson Nano (High-speed compute)   │
-│   • MQTT Broker                        │
-│   • Signal Amplifier & Conditioner     │
-│   • Solar-powered dock                 │
-│   • Dispatches autonomous drones       │
+│   (Edge AI Processing Hub)              │
+│   • Jetson Nano (High-speed compute)    │
+│   • MQTT Broker                         │
+│   • Signal Amplifier & Conditioner      │
+│   • Solar-powered dock                  │
+│   • Dispatches autonomous drones        │ 
 └──────────────┬──────────────────────────┘
                │ Autonomous dispatch
                ▼
 ┌─────────────────────────────────────────┐
 │               BEES                      │
-│   (Autonomous Inspection Drones)       │
-│   • High-resolution thermal camera     │
-│   • 2D Laser/LiDAR                    │
-│   • Solar charging battery             │
-│   • Sand-proofed cooling system        │
+│   (Autonomous Inspection Drones)        │
+│   • High-resolution thermal camera      │
+│   • 2D Laser/LiDAR                      │
+│   • Solar charging battery              │
+│   • Sand-proofed cooling system         │
 └─────────────────────────────────────────┘
 ```
 
